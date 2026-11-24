@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Insights Dashboard
+#  E-Commerce Sales Insights Dashboard
 ### Power BI Capstone Project | Anshuk Chaturvedi | KIIT | B.Tech CSE 2023-27
 
 ---
